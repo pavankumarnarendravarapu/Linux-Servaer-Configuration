@@ -302,5 +302,3 @@ The `unattended-upgrades` package can be used to automatically install important
   - [anumsh/Linux-Server-Configuration](https://github.com/anumsh/Linux-Server-Configuration)
   - [bencam/linux-server-configuration](https://github.com/bencam/linux-server-configuration)
   - [iliketomatoes/linux_server_configuration](https://github.com/iliketomatoes/linux_server_configuration)
-
-**Special Thanks to [Alain Boisvert](https://github.com/boisalai)* for a very helpful README in Linux Server Configuration Project-Udacity**
